@@ -1,4 +1,4 @@
-# london-index
+# The London Index
 A multi-source analysis of London data, aggregated into a composite liveability index
 
 ### **🎯 Project Aim**
